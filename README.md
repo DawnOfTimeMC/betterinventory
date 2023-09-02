@@ -1,2 +1,2 @@
-# betterinventory
-A Minecraft mod to improve the Vanilla creative inventory !
+# Creative Inventory +
+A Minecraft mod to improve the Vanilla creative inventory, only on client side !
